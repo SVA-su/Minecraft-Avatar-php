@@ -1,4 +1,4 @@
-# MineCraft Avatar On PHP-8.0+
+# Minecraft Avatar On PHP-8.0+
 
 - [x] Up 8.0 php version.
 - [ ] Down 8.0 php version.
