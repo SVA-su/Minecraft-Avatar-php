@@ -4,7 +4,7 @@
     * Script forked https://github.com/jamiebicknell/Minecraft-Avatar (OLD VERSION)
     
     * Minecraft Avatar on php 8.0+ version only.
-    * New version script powered by SVA.su! developers.
+    * New version of the script developers SVA.su! project.
     * https://svamc.su/ | https://github.com/SVA-su/
     * https://github.com/SVA-su/Minecraft-Avatar-php
 */
