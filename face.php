@@ -1,7 +1,14 @@
 <?php
-//скрипт для получения частей тела персонажа
-//переделано под PHP 8.2, из 5 версии, оригинал: https://github.com/jamiebicknell/Minecraft-Avatar
-//SVA.su!
+
+/*
+    * Script forked https://github.com/jamiebicknell/Minecraft-Avatar (OLD VERSION)
+    
+    * Minecraft Avatar on php 8.0+ version only.
+    * New version script powered by SVA.su! developers.
+    * https://svamc.su/ | https://github.com/SVA-su/
+    * https://github.com/SVA-su/Minecraft-Avatar-php
+*/
+
 $size = isset($_GET['s']) ? max(8, min(250, $_GET['s'])) : 48;
 $user = isset($_GET['u']) ? $_GET['u'] : '';
 $view = isset($_GET['v']) ? substr($_GET['v'], 0, 1) : 'f';
